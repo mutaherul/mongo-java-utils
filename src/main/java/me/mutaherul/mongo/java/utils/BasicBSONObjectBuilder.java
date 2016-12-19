@@ -18,6 +18,8 @@ import org.bson.types.ObjectId;
     Example Code:
     # BasicBSONObjectBuilder.getInstance().add(key,value).add(key,mapValue).build()    
     # BasicBSONObject  bObject =  BasicBSONObjectBuilder.createObject(map)
+    
+    Note : This class will be helpful to use with com.mongodb.hadoop.io.BSONWritable ( BSONWritable(BSONObject doc) )
 */
 @SuppressWarnings("rawtypes")
 public class BasicBSONObjectBuilder {
