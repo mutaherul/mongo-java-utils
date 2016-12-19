@@ -12,7 +12,7 @@ import org.bson.types.ObjectId;
 /*
     A builder for creating BasicBSONObject models from scratch.
     Utility for building complex BasicBSONObject.
-    This builder and provides methods to add name/value pairs to the object model and to return the resulting object.
+    This builder provide methods to add name/value pairs to the object model and to return the resulting object.
     The methods in this class can be chained to add multiple name/value pairs to the object.
 	This class does not allow null to be used as a name(key/field) while building the BasicBSON object
     Example Code:
