@@ -1,4 +1,4 @@
-package me.mutaherul.mongo.java.utils.bosn;
+package me.mutaherul.mongo.java.utils;
 
 
 
