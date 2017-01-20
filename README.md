@@ -1,7 +1,7 @@
 # mongo-java-utils
 
 ##  BasicBSONObjectBuilder ##
-    * Package: mongo-java-utils/src/main/java/me/mutaherul/mongo/java/utils/BasicBSONObjectBuilder.java
+### Package: me.mutaherul.mongo.java.utils ###
     A builder for creating BasicBSONObject models from scratch.
     Utility for building complex BasicBSONObject.
     This builder provides methods to add name/value pairs to the object model and to return the resulting object.
