@@ -9,3 +9,6 @@
 
     
     *This class will be helpful to use with com.mongodb.hadoop.io.BSONWritable ( BSONWritable(BSONObject doc) )
+## Package ##
+    * mongo-java-utils/src/main/java/me/mutaherul/mongo/java/utils/BasicBSONObjectBuilder.java
+
